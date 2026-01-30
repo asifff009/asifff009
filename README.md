@@ -4,8 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=asifff009&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
+
+
 <h2 align="left">Hi 👋, I'm Asif Al Rumel. I work with Java, PHP, and SQL, focusing on building practical and efficient applications.</h2>
 <h4 align="left">🚀 App Developer | Java & Android Enthusiast | Open Source Learner</h4>
+
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat" />
+
 
 ---
 
