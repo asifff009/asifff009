@@ -1,15 +1,54 @@
-### Hi👋, I am Asif Al Rumel, passionate about app developement
+## Hi 👋, I’m Asif Al Rumel  
+### 🚀 Passionate App Developer | Java & Android Enthusiast
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifff009)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifff009&show_icons=true)  
+---
 
-Skills: HTML / CSS / Java / C++ / C
+### 📊 GitHub Overview
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asifff009&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifff009&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifff009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-asif-al-rumel-b32276341//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/asif_rumel_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/asif_ar_009)  
+### 🛠️ Skills & Technologies
+- **Languages:** Java, C, C++  
+- **Web:** HTML, CSS  
+- **Interest:** Android App Development, Open Source  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asifff009)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=asifff009)  
+### 🔗 Connect with Me
 
+<p align="left">
+  <a href="https://github.com/asifff009" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/md-asif-al-rumel-b32276341/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/asif_rumel_/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/asif_ar_009" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="35"/>
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asifff009&theme=onedark&row=1"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asifff009&theme=tokyonight"/>
+</p>
