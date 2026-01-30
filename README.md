@@ -61,6 +61,14 @@
 
 ---
 
+<!-- ===================== STREAK ===================== -->
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asifff009&theme=tokyonight"/>
+</p>
+
+
 <!-- ===================== TROPHY ===================== -->
 <h3 align="center">🏆 GitHub Achievements</h3>
 
@@ -70,12 +78,7 @@
 
 ---
 
-<!-- ===================== STREAK ===================== -->
-<h3 align="center">🔥 Contribution Streak</h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=asifff009&theme=tokyonight"/>
-</p>
 
 <!-- ===================== FOOTER ===================== -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer)
