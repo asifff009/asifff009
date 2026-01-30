@@ -1,14 +1,11 @@
+
 <!-- ===================== PROFILE VIEWS ===================== -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=asifff009&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
-<!-- ===================== BANNER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Asif%20Al%20Rumel&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
-
-<h2 align="center">Hi 👋, I'm Asif Al Rumel</h2>
-<h4 align="center">🚀 App Developer | Java & Android Enthusiast | Open Source Learner</h4>
+<h2 align="left">Hi 👋, I'm Asif Al Rumel. I work with Java, PHP, and SQL, focusing on building practical and efficient applications.</h2>
+<h4 align="left">🚀 App Developer | Java & Android Enthusiast | Open Source Learner</h4>
 
 ---
 
@@ -24,10 +21,28 @@
 <h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter, java,html,css,c,c++,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,java,php,mysql,html,css,c,cpp,github&theme=dark" />
 </p>
 
 ---
+<!-- ===================== SOCIAL ===================== -->
+<h3 align="center">🔗 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-asif-al-rumel-b32276341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rumelasif41@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/asif_rumel_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/asif_ar_009" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
 
 <!-- ===================== ABOUT ===================== -->
 ### 👨‍💻 About Me
@@ -38,23 +53,6 @@
 
 ---
 
-<!-- ===================== SOCIAL ===================== -->
-<h3 align="center">🔗 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://github.com/asifff009" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-asif-al-rumel-b32276341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/asif_rumel_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/asif_ar_009" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
