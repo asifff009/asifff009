@@ -1,10 +1,11 @@
+<!-- ===================== PROFILE VIEWS ===================== -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=asifff009&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+
 <!-- ===================== BANNER ===================== -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Asif%20Al%20Rumel&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-<!-- ===================== PROFILE VIEWS ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asifff009&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
 
 <h2 align="center">Hi 👋, I'm Asif Al Rumel</h2>
 <h4 align="center">🚀 App Developer | Java & Android Enthusiast | Open Source Learner</h4>
@@ -23,7 +24,7 @@
 <h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,android,html,css,c,cpp,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter, java,html,css,c,c++,git,github&theme=dark" />
 </p>
 
 ---
